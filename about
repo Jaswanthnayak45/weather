@@ -1,0 +1,30 @@
+# 🌤️ Weather Dashboard
+
+A modern and responsive **Weather Dashboard** built using **HTML, CSS, and JavaScript**.  
+It allows users to search for any city and view **real-time weather**, **hourly forecast**, and a **7-day forecast** with a clean and attractive UI.
+
+---
+
+## 🚀 Features
+
+- 🔍 Search weather by city name  
+- 🌡️ Current temperature with “feels like” value  
+- 💧 Humidity, 🌬️ wind speed, and 🧭 pressure details  
+- ⏰ Hourly weather forecast (next 24 hours)  
+- 📅 7-day weather forecast  
+- 🎨 Modern UI with gradient background  
+- ⚡ Fast and lightweight (no frameworks)
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure  
+- **CSS3** – Styling & responsive layout  
+- **JavaScript (ES6)** – Logic & API handling  
+- **Open-Meteo API** – Weather & geocoding data  
+
+---
+
+## 📂 Project Structure
+
